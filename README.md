@@ -22,9 +22,9 @@ Secure backend using Supabase
 🧪 Test Accounts
 👤 Admin Account
 
-Email: adminbushra@example.com
+Email: adminyumna@example.com
 
-Password: passwordbushra
+Password: passwordyumna
 
 👤 User Accounts
 
